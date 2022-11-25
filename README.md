@@ -1,1 +1,1 @@
-# Data-Structures
+The nsq.py file contains the Node, Stack, Queue, and LinkedList data structures which can be used for implementation universally. I have used this many times in the past to test and storage data from instances such as file handling. 
